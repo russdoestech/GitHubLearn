@@ -1,5 +1,5 @@
 export GH_USERNAME='rideabout'
-export GH_TOKEN='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'
+export GH_TOKEN='nope'
 export GH_IMAGE_NAME='hello-world'
 export GH_VER='1.0.0'
 
